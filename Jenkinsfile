@@ -9,7 +9,7 @@ pipeline{
 		
 		stage('stage-1'){
 			steps{
-				sh 'echo "hello master" '
+				sh 'echo "hello 22Q1" '
 			}
 		}
 	}
